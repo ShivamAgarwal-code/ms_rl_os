@@ -39,8 +39,8 @@ Run the code by invoking the resulting executable in the build directory.
 ![Screenshot from 2023-03-27 12-08-50](https://user-images.githubusercontent.com/33056740/227925672-732a3204-d053-4a55-95b3-8e08848d168f.png)
 
 ```sh
-lord-bryan@toxic-mould:~/projects/rlos/exercise_2$ ./screening_exercise_2 
-Bryan Elee says hello
+SHIVAM AGARWAL@DESKTOP-F4FQ1B3 MINGW64 ~/Desktop/ebqd/ms_rl_os/exercise_2$ ./screening_exercise_2 
+Shivam Agarwal says hello
 25.0
 2023
 ```
